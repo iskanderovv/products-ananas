@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import StarIcon from "@mui/icons-material/Star";
+import StarIcon from '@mui/icons-material/Star';
 import StarHalfIcon from "@mui/icons-material/StarHalf";
 import StarOutlineIcon from "@mui/icons-material/StarOutline";
 import { Box } from "@mui/material";
